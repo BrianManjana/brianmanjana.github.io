@@ -1,0 +1,10 @@
+# Readable reports never leave this laptop: only the scrambled copies in docs/ go to GitHub
+to-encrypt/
+decrypted/
+
+# Secrets never go into a repository
+.env
+.env.*
+
+# macOS
+.DS_Store
